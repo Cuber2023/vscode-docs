@@ -1,0 +1,5 @@
+Import random
+
+Def play_game():
+User_choice = Imput("Chose rock paper or sissors: ")
+Computer_choice = Random.choice(["rock "])
